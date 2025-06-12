@@ -33,14 +33,14 @@ This script turns any image into ASCII art using Python and Pillow.
 
 > Below are some sample images and their ASCII outputs.
 
-<div align='center'>
-<img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output5.png?raw=true" height="300" style="border-radius:10px;">
-<img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output3.png?raw=true" height="300" style="border-radius:10px;">
+![Output 5 (High)](https://github.com/SoufianeEch/ascii-art/blob/main/output/output5.png?raw=true)
+![Output 3 (High)](https://github.com/SoufianeEch/ascii-art/blob/main/output/output3.png?raw=true)
 
-<img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output4.png?raw=true" height="200" style="border-radius:10px;">
-<img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output2.png?raw=true" height="200" style="border-radius:10px;">
-<img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output1.png?raw=true" height="100" style="border-radius:10px;">
-</div>
+![Output 4 (Medium)](https://github.com/SoufianeEch/ascii-art/blob/main/output/output4.png?raw=true)
+![Output 2 (Medium)](https://github.com/SoufianeEch/ascii-art/blob/main/output/output2.png?raw=true)
+
+![Output 1 (Small)](https://github.com/SoufianeEch/ascii-art/blob/main/output/output1.png?raw=true)
+
 
 ## 📝 Notes
 
