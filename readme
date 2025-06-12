@@ -34,12 +34,12 @@ This script turns any image into ASCII art using Python and Pillow.
 > Below are some sample images and their ASCII outputs.
 
 <div align='center'>
-<img src="./imageToASCII/assets/result/output5.png" height="300" style="border-radius:10px;">
-<img src="./imageToASCII/assets/result/output3.png" height="300" style="border-radius:10px;">
+<img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output5.png?raw=true" height="300" style="border-radius:10px;">
+<img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output3.png?raw=true" height="300" style="border-radius:10px;">
 
-<img src="./imageToASCII/assets/result/output4.png" height="200" style="border-radius:10px;">
-<img src="./imageToASCII/assets/result/output2.png" height="200" style="border-radius:10px;">
-<img src="./imageToASCII/assets/result/output1.png" height="100" style="border-radius:10px;">
+<img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output4.png?raw=true" height="200" style="border-radius:10px;">
+<img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output2.png?raw=true" height="200" style="border-radius:10px;">
+<img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output1.png?raw=true" height="100" style="border-radius:10px;">
 </div>
 
 ## 📝 Notes
