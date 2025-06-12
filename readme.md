@@ -40,11 +40,11 @@ This script turns any image into ASCII art using Python and Pillow.
 
 <p align="center">
   <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output4.png?raw=true" width="250"/>
-  <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output2.png?raw=true" width="250"/>
+  <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output2.png?raw=true" height="270"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output1.png?raw=true" width="200"/>
+  <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output1.png?raw=true" width="300"/>
 </p>
 
 
