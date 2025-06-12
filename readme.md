@@ -1,4 +1,3 @@
-
 # 🖼️ Image to ASCII Art (Python)
 
 This script turns any image into ASCII art using Python and Pillow.
@@ -32,15 +31,21 @@ This script turns any image into ASCII art using Python and Pillow.
 
 ## 🧪 Sample Outputs
 
-### Below are some sample images and their ASCII outputs.
+> Below are some sample images and their ASCII outputs.
 
-![Output 5 (High)](https://github.com/SoufianeEch/ascii-art/blob/main/output/output5.png?raw=true)
-![Output 3 (High)](https://github.com/SoufianeEch/ascii-art/blob/main/output/output3.png?raw=true)
+<p align="center">
+  <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output5.png?raw=true" width="300"/>
+  <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output3.png?raw=true" width="300"/>
+</p>
 
-![Output 4 (Medium)](https://github.com/SoufianeEch/ascii-art/blob/main/output/output4.png?raw=true)
-![Output 2 (Medium)](https://github.com/SoufianeEch/ascii-art/blob/main/output/output2.png?raw=true)
+<p align="center">
+  <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output4.png?raw=true" width="250"/>
+  <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output2.png?raw=true" width="250"/>
+</p>
 
-![Output 1 (Small)](https://github.com/SoufianeEch/ascii-art/blob/main/output/output1.png?raw=true)
+<p align="center">
+  <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output1.png?raw=true" width="200"/>
+</p>
 
 
 ## 📝 Notes
@@ -51,4 +56,11 @@ This script turns any image into ASCII art using Python and Pillow.
   * `Version 1`: dark areas = light characters
   * `Version 2`: dark areas = dark characters (default)
 
-### 👨‍💻 Made by Soufiane
+>### 👨‍💻 Made by Soufiane
+
+### ✅ Just make sure:
+
+- Create a folder called `samples/`
+- Put your 4 images there: `flagMorrocco.png`, `cat.png`, `landscape.png`, `portrait.png`
+- Adjust file names if needed
+
