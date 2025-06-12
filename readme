@@ -1,3 +1,4 @@
+
 # 🖼️ Image to ASCII Art (Python)
 
 This script turns any image into ASCII art using Python and Pillow.
@@ -51,10 +52,3 @@ This script turns any image into ASCII art using Python and Pillow.
   * `Version 2`: dark areas = dark characters (default)
 
 >### 👨‍💻 Made by Soufiane
-
-### ✅ Just make sure:
-
-- Create a folder called `samples/`
-- Put your 4 images there: `flagMorrocco.png`, `cat.png`, `landscape.png`, `portrait.png`
-- Adjust file names if needed
-
