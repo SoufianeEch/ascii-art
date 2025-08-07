@@ -33,18 +33,13 @@ This script turns any image into ASCII art using Python and Pillow.
 
 > Below are some sample images and their ASCII outputs.
 
-<p align="center">
-  <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output5.png?raw=true" width="300"/>
-  <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output3.png?raw=true" width="300"/>
-</p>
+<p align="left">
+   
+   <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output5.png?raw=true" height="200"/>
+   <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output3.png?raw=true" height="200"/>
+   <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output2.png?raw=true" height="200"/>
+   <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output1.png?raw=true" height="200"/>
 
-<p align="center">
-  <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output4.png?raw=true" width="250"/>
-  <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output2.png?raw=true" height="270"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/SoufianeEch/ascii-art/blob/main/output/output1.png?raw=true" width="300"/>
 </p>
 
 
